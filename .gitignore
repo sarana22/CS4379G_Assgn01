@@ -1,2 +1,1 @@
-kaggle.json
-# Ignore the kaggle.json file which contains sensitive API credentials
+.ipynb_checkpoints/
